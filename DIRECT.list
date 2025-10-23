@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,client.wns.windows.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,oddob.com
+DOMAIN-SUFFIX,ntp.ntsc.ac.cn
+DOMAIN-SUFFIX,cn.ntp.org.cn
